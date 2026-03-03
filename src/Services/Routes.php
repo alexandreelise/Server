@@ -107,7 +107,7 @@ class Routes implements ArrayAccess
             return $this->routes[$path];
         }
 
-        throw new InvalidArgumentException("Route $path not found.");
+        throw new InvalidArgumentException('Route not found.');
     }
 
     /**
