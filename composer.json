@@ -33,7 +33,7 @@
         "react/http": "^1.1",
         "rubix/ml": "^2.0",
         "symfony/polyfill-php80": "^1.17",
-        "webonyx/graphql-php": "^14.4"
+        "webonyx/graphql-php": "^14.4 || ^15.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
